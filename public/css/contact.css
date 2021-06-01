@@ -30,11 +30,11 @@ label {
     border: 2px rgba(255, 255, 255, 0.569) solid;
     background-color: transparent;
     color: white;
-    padding: .3rem .4rem .4rem .5rem ;
+    padding: .3rem .4rem .4rem .5rem;
 
 }
 
-.form-group.web{
+.form-group.web {
     display: none !important;
 }
 
@@ -87,7 +87,7 @@ textarea {
     background-image: url('../assets/imgs/instagram.svg')
 }
 
-.twitter {
+.github {
     background-image: url('../assets/imgs/twitter.svg')
 }
 
